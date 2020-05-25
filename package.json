@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme--pocketgrid",
-	"version": "1.0.141",
+	"version": "1.0.142",
 	"description": "ctx-core theme support",
 	"type": "module",
 	"scripts": {
@@ -24,7 +24,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^6.4.31",
+		"@ctx-core/sass": "^6.4.32",
 		"svelte": "^3.22.3"
 	},
 	"gitHead": "0d38eb2f8db2583aaf5696291050da63f1e08612"
