@@ -2,6 +2,7 @@
 	"name": "@ctx-core/theme--pocketgrid",
 	"version": "1.0.139",
 	"description": "ctx-core theme support",
+	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
