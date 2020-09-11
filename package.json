@@ -24,7 +24,7 @@
 	},
 	"devDependencies": {
 		"@ctx-core/sass": "^7.1.8",
-		"svelte": "^3.24.1"
+		"svelte": "^3.25.0"
 	},
 	"gitHead": "8e80e6bb11855ed9f657461fc1f7ca786ae8b3fc"
 }
