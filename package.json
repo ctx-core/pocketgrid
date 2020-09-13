@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme--pocketgrid",
-	"version": "1.0.187",
+	"version": "1.0.188",
 	"description": "ctx-core theme support",
 	"scripts": {
 		"exec": "$@"
