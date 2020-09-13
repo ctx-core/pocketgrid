@@ -3,7 +3,7 @@
 	"version": "1.0.187",
 	"description": "ctx-core theme support",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
@@ -26,5 +26,5 @@
 		"@ctx-core/sass": "^7.1.10",
 		"svelte": "^3.25.0"
 	},
-	"gitHead": "e7fd796917ba45b468dd660838fa36e8694ffad2"
+	"gitHead": "8b2e03f6a9bab5008359e56781a9cee70f4a863c"
 }
