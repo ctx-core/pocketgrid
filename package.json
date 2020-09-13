@@ -2,29 +2,29 @@
 	"name": "@ctx-core/theme--pocketgrid",
 	"version": "1.0.188",
 	"description": "ctx-core theme support",
-	"scripts": {
-		"exec": "$@"
+	"keywords": [
+		"ctx-core",
+		"time"
+	],
+	"homepage": "https://github.com/ctx-core/theme--pocketgrid#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/theme--pocketgrid/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/theme--pocketgrid/issues"
 	},
-	"keywords": [
-		"ctx-core",
-		"time"
-	],
-	"author": "Brian Takita",
 	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/theme--pocketgrid/issues"
-	},
-	"homepage": "https://github.com/ctx-core/theme--pocketgrid#readme",
-	"publishConfig": {
-		"access": "public"
+	"author": "Brian Takita",
+	"scripts": {
+		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^7.1.10",
+		"@ctx-core/sass": "workspace:*",
 		"svelte": "^3.25.0"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "8b2e03f6a9bab5008359e56781a9cee70f4a863c"
 }
