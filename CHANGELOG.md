@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 1.0.193
+
+### Patch Changes
+
+- update dependencies
+
 ## 1.0.192
 
 ### Patch Changes
