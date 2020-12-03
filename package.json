@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme--pocketgrid",
-	"version": "1.0.206",
+	"version": "1.0.207",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -21,8 +21,8 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "workspace:^8.0.40",
-		"svelte": "3.30.1",
+		"@ctx-core/sass": "workspace:^8.0.41",
+		"svelte": "3.31.0",
 		"typescript": "^4.1.2"
 	},
 	"publishConfig": {
