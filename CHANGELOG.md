@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 1.0.208
+
+### Patch Changes
+
+- typescript: ^4.1.2 -> ^4.1.3
+
 ## 1.0.207
 
 ### Patch Changes
