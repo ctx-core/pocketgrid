@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 2.0.11
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 2.0.10
 
 ### Patch Changes
