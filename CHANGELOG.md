@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 2.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 2.0.26
 
 ### Patch Changes
