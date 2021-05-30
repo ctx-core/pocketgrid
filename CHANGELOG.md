@@ -1,5 +1,12 @@
 # @ctx-core/theme--pocketgrid
 
+## 3.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
 ## 2.2.2
 
 ### Patch Changes
