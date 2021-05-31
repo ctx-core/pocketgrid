@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 3.0.2
+
+### Patch Changes
+
+- fix: ignore tsconfig.tsbuildinfo
+
 ## 3.0.1
 
 ### Patch Changes
