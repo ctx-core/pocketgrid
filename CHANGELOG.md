@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 3.0.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 3.0.3
 
 ### Patch Changes
