@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 4.0.1
+
+### Patch Changes
+
+- remove npm run symlink
+
 ## 4.0.0
 
 ### Major Changes
