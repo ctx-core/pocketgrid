@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 4.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 3.0.8
 
 ### Patch Changes
