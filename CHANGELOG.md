@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 4.0.7
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 4.0.6
 
 ### Patch Changes
