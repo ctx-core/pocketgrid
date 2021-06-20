@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 4.0.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 4.0.7
 
 ### Patch Changes
