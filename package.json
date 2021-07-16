@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme--pocketgrid",
-	"version": "5.0.4",
+	"version": "5.0.5",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -20,7 +20,7 @@
 		"build": "npm run clean && npm run copy-mjs && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
-		"copy-mjs": "cd dist && echo \"require = require('esm')(module/*, options*/)\nmodule.exports = require('./main.js')\nexport * from './index.js'\" > index.cjs",
+		"copy-mjs": "cd dist && echo \"require = require('esm')(module)\nmodule.exports = require('./index.js')\" > index.cjs",
 		"exec": "$@"
 	},
 	"type": "module",
@@ -32,8 +32,8 @@
 		"import": "./dist/index.js"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.29",
-		"@ctx-core/sass": "workspace:^12.0.4",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.30",
+		"@ctx-core/sass": "workspace:^12.0.5",
 		"svelte": "3.38.3",
 		"typescript": "^4.3.5"
 	},
