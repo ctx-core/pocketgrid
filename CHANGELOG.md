@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 5.0.13
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+
 ## 5.0.12
 
 ### Patch Changes
