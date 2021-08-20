@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 5.0.40
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.39
 
 ### Patch Changes
