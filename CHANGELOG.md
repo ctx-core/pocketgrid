@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 5.0.75
+
+### Patch Changes
+
+- compile using swc
+
 ## 5.0.74
 
 ### Patch Changes
