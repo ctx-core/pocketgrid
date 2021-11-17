@@ -1,6 +1,6 @@
 {
-	"name": "@ctx-core/theme--pocketgrid",
-	"version": "5.0.76",
+	"name": "@ctx-core/pocketgrid",
+	"version": "6.0.0",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",

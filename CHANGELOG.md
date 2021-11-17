@@ -1,5 +1,12 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.0
+
+### Major Changes
+
+- Pocketgrid instead of Theme\_\_Pocketgrid
+- rename to @ctx-core/pocketgrid
+
 ## 5.0.76
 
 ### Patch Changes
