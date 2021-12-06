@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.8
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 6.0.7
 
 ### Patch Changes
