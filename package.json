@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pocketgrid",
-	"version": "6.0.8",
+	"version": "6.0.9",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -27,13 +27,12 @@
 	"types": "./src/index.ts",
 	"exports": {
 		".": {
-			"require": "./dist/index.cjs",
 			"import": "./dist/index.js"
 		},
 		"./package.json": "./package.json"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.83",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.85",
 		"@ctx-core/sass": "workspace:^12.1.7",
 		"@swc/cli": "^0.1.52",
 		"@swc/core": "^1.2.118",
