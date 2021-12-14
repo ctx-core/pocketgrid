@@ -1,4 +1,4 @@
-<style type="text/scss" global>
+<style lang="scss" global>
 /*! PocketGrid 1.1.0
 * Copyright 2013 Arnaud Leray
 * MIT License
