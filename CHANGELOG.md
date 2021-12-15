@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.15
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 6.0.14
 
 ### Patch Changes
