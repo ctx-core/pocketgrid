@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.14
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 6.0.13
 
 ### Patch Changes
