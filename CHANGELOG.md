@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.12
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 6.0.11
 
 ### Patch Changes
