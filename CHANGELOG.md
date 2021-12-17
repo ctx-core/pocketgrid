@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.17
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 6.0.16
 
 ### Patch Changes
