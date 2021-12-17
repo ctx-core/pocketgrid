@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.18
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 6.0.17
 
 ### Patch Changes
