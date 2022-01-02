@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.21
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 6.0.20
 
 ### Patch Changes
