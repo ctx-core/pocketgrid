@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.22
+
+### Patch Changes
+
+- version bump
+
 ## 6.0.21
 
 ### Patch Changes
