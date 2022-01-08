@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.24
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 6.0.23
 
 ### Patch Changes
