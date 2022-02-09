@@ -34,7 +34,7 @@
 		"./package.json": "./package.json"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^12.1.28",
+		"@ctx-core/sass": "workspace:^12.1.28",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
