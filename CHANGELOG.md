@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.37
+
+### Patch Changes
+
+- @ctx-core/sass: ^12.1.41 -> ^12.1.42
+
 ## 6.0.36
 
 ### Patch Changes
