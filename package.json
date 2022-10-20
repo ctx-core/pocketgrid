@@ -32,7 +32,7 @@
 		"./package.json": "./package.json"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^12.1.66",
+		"@ctx-core/sass": "^12.1.67",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
