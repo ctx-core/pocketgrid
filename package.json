@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pocketgrid",
-	"version": "6.0.65",
+	"version": "6.0.66",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -32,7 +32,7 @@
 		"./package.json": "./package.json"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^12.1.75",
+		"@ctx-core/sass": "^12.1.76",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.59",
