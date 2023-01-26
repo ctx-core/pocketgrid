@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.82
+
+### Patch Changes
+
+- tslib: ^2.4.1 -> ^2.5.0
+
 ## 6.0.81
 
 ### Patch Changes

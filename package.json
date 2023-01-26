@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pocketgrid",
-	"version": "6.0.81",
+	"version": "6.0.82",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 		"svelte": "^3.55.1",
 		"svelte-preprocess": "^5.0.1",
 		"svelte2tsx": "^0.6.0",
-		"tslib": "^2.4.1",
+		"tslib": "^2.5.0",
 		"typescript": "next"
 	},
 	"publishConfig": {
