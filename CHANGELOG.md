@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.0.84
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 6.0.83
 
 ### Patch Changes
