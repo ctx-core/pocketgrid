@@ -1,1 +1,1 @@
-export * as Pocketgrid from './Pocketgrid/index.js'
+export * from './Pocketgrid/index.js'

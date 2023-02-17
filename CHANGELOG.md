@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.1.1
+
+### Patch Changes
+
+- fix: exports
+
 ## 6.1.0
 
 ### Minor Changes
