@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.2.11
+
+### Patch Changes
+
+- tsx: ^4.4.0 -> ^4.5.0
+
 ## 6.2.10
 
 ### Patch Changes
