@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.2.12
+
+### Patch Changes
+
+- svelte: ^4.2.7 -> ^4.2.8
+
 ## 6.2.11
 
 ### Patch Changes
