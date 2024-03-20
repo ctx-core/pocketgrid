@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.2.19
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 6.2.18
 
 ### Patch Changes
