@@ -1,5 +1,11 @@
 # @ctx-core/theme--pocketgrid
 
+## 6.2.28
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 6.2.27
 
 ### Patch Changes
